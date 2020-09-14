@@ -1,1 +1,1 @@
-This project uses material UI and functional react (hooks) to display a basic music database, pulling in dummy data for reusable components.
+This stateful react hooks project uses material UI to display a basic music database, mapping over dummy data for reusable components.
